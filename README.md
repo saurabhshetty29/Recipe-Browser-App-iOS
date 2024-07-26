@@ -1,6 +1,6 @@
 Recipe Browser App
 
-This native iOS app allows users to browse dessert recipes using the MealDB API(https://themealdb.com/api.php). The app utilizes Swift Concurrency (async/await) for all asynchronous operations.
+This native iOS app allows users to browse dessert recipes using the MealDB API (https://themealdb.com/api.php). The app utilizes Swift Concurrency (async/await) for all asynchronous operations.
 
 Features:
 
